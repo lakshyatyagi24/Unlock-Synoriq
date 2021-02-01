@@ -9,6 +9,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5
 4. [Tutorial 4 - Enable git commands autocomplete and colors on Mac/Linux](#Tutorial-4)
 5. [Tutorial 5 - Branching and Merging](#Tutorial-5)
 6. [Tutorial 6 - How to send email from GitHub](#Tutorial-6)
+7. [Tutorial 7 - Git Tags - what, why, when and how](#Tutorial-7)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -59,3 +60,9 @@ fi
 ###### Tutorial 6
 * Go to settings of particular repository and click on "Integration and Services" and add "Email" service.
 * Add your email id in "Address" input box.
+###### Tutorial 7
+* Normally we use tagging in git for marking stable release.
+* Use `git tag "tag name"` to create tag.
+* Use `git tag` to get the list of all tags.
+* Don't forget to push tags to remote repository.
+* To delete any tag use `git tag -d "tag name"` or you can use `git tag --delete "tag name"`
