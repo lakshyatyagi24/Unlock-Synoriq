@@ -3,6 +3,10 @@
 ## Git and GitHub Beginner
 Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG](https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
 
+1. [Tutorial 1 - Introduction](# Tutorial 1)
+2. [Tutorial 2 - Install Git (mac/Linux)](# Tutorial 2)
+3. [Tutorial 3 - Install Git windows](#Tutorial 3)
+
 #### Summary of Course
 ###### Tutorial 1
 * Git is a Distributed Version Control System. Very useful in Team Work. Easy to solve conflicts and keep all history. Also, it is open source.
