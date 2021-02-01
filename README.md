@@ -6,6 +6,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5
 1. [Tutorial 1 - Introduction](#Tutorial-1)
 2. [Tutorial 2 - Install Git (mac/Linux)](#Tutorial-2)
 3. [Tutorial 3 - Install Git windows](#Tutorial-3)
+4. [Tutorial 4 - Enable git commands autocomplete and colors on Mac/Linux](#Tutorial-4)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -37,3 +38,13 @@ Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5
 * `git remote add origin "repository git link"` used to know the commits need to be the push in origin.
 * Push all your commits in the master branch using `git push -u origin master`
 * Use `git --help` to see all available commands.
+#### Tutorial 4
+* Use this command to put git-completion.bash script in your home directory `curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash`
+* Use command `vi ~/.bash_profile` to edit .bash_profile file and add these lines
+```
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
+```
+* `git config color.ui` is used to check wether coloring is on (true) or off (false)
+* Use `git config --global color.ui true` to turn on coloring and `git config --global color.ui true` to turn of coloring.
