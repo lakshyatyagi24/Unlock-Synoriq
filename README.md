@@ -1,7 +1,7 @@
 # Unlock-Synoriq
 
 ## Git and GitHub Beginner
-Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG] (https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
+Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG](https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
 
 #### Summary of Course
 ###### Tutorial 1
