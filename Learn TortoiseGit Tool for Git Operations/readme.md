@@ -9,6 +9,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 4. [Tutorial 4 - git fetch, merge and pull](#tutorial-4)
 5. [Tutorial 5 - git branching(How to create branch in github, fetch it and push changes](#tutorial-5)
 6. [Tutorial 6 - Merging branches (git merge) - Fast Forward vs 3-way merge](#tutorial-6)
+7. [Tutorial 7 - Create, switch or delete branch using tortoisegit](#tutorial-7)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -42,3 +43,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 * use tortoisegit merge and select the branch name from where we need to merge the branch.
 * by default it will do fast forward merge.
 * In case of conflict we need to use tortoisegitmerge and solve that conflict manually.
+###### Tutorial 7
+* Use tortoisegit to create a branch and write the name of the branch. By default, it will create a new branch from the master but we have the option to change the base branch.
+* Use tortoisegit switch/checkout to change the branch.
+* Use tortoisegit browse references to and delete the branch you want to delete.
