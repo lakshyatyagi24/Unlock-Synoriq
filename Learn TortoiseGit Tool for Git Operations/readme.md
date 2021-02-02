@@ -13,6 +13,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 8. [Tutorial 8 - Stashing (save local changes) using tortoisegit](#tutorial-8)
 9. [Tutorial 9(a) - Undoing local changes using tortoiseGit revert option](#tutorial-9a)
 10. [Tutorial 9(b) - Undoing local changes using tortoiseGit reset option](#tutorial-9b)
+11. [Tutorial 9(c) - git clean using tortoiseGit](#tutorial-9c)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -64,3 +65,8 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 * It reverts all the local changes.
 * This does not affect untracked files.
 * This feature only works on commits.
+###### Tutorial 9c
+* Use reset feature in the last commit state.
+* Choose Hard reset type.
+* Do tortoisegit cleanup.
+* Mark remove untracked directories and dry run.
