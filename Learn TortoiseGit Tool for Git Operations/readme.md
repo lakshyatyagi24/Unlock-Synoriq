@@ -12,6 +12,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 7. [Tutorial 7 - Create, switch or delete branch using tortoisegit](#tutorial-7)
 8. [Tutorial 8 - Stashing (save local changes) using tortoisegit](#tutorial-8)
 9. [Tutorial 9(a) - Undoing local changes using tortoiseGit revert option](#tutorial-9a)
+10. [Tutorial 9(b) - Undoing local changes using tortoiseGit reset option](#tutorial-9b)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -58,3 +59,8 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 ###### Tutorial 9a
 * Revert changes by using the tortoisegit revert option.
 * select all files you need to get back.
+###### Tutorial 9b
+* Reset command `git reset --hard`
+* It reverts all the local changes.
+* This does not affect untracked files.
+* This feature only works on commits.
