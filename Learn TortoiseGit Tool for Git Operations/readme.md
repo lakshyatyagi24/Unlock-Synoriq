@@ -11,6 +11,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 6. [Tutorial 6 - Merging branches (git merge) - Fast Forward vs 3-way merge](#tutorial-6)
 7. [Tutorial 7 - Create, switch or delete branch using tortoisegit](#tutorial-7)
 8. [Tutorial 8 - Stashing (save local changes) using tortoisegit](#tutorial-8)
+9. [Tutorial 9(a) - Undoing local changes using tortoiseGit revert option](#tutorial-9a)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -54,3 +55,6 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 * Click on the include untracked option to perform an action with new files.
 * Use stash pop to get back the last stashed files.
 * Use stash list to check all the stashed. You can select the stash from there too.
+###### Tutorial 9a
+* Revert changes by using the tortoisegit revert option.
+* select all files you need to get back.
