@@ -8,6 +8,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 3. [Tutorial 3 - git add (staging) , commit and push](#Tutorial-3)
 4. [Tutorial 4 - git fetch, merge and pull](#tutorial-4)
 5. [Tutorial 5 - git branching(How to create branch in github, fetch it and push changes](#tutorial-5)
+6. [Tutorial 6 - Merging branches (git merge) - Fast Forward vs 3-way merge](#tutorial-6)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -35,3 +36,9 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 * Use tortoise git switch/checkout to change the branch in the local repository.
 * We also have an option to change the branch name while changing the branch.
 * If you are using HTTPS it will ask for credentials but if you are working with SSH it will not ask for credentials.
+###### Tutorial 6
+* Use tortoisegit show log to check all the changes/commits. Select All Branches to see the log of all available branches in the repository.
+* Change branch to that branch in which you have to merge another branch.
+* use tortoisegit merge and select the branch name from where we need to merge the branch.
+* by default it will do fast forward merge.
+* In case of conflict we need to use tortoisegitmerge and solve that conflict manually.
