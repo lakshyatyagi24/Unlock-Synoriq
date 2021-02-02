@@ -10,6 +10,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 5. [Tutorial 5 - git branching(How to create branch in github, fetch it and push changes](#tutorial-5)
 6. [Tutorial 6 - Merging branches (git merge) - Fast Forward vs 3-way merge](#tutorial-6)
 7. [Tutorial 7 - Create, switch or delete branch using tortoisegit](#tutorial-7)
+8. [Tutorial 8 - Stashing (save local changes) using tortoisegit](#tutorial-8)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -47,3 +48,9 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 * Use tortoisegit to create a branch and write the name of the branch. By default, it will create a new branch from the master but we have the option to change the base branch.
 * Use tortoisegit switch/checkout to change the branch.
 * Use tortoisegit browse references to and delete the branch you want to delete.
+###### Tutorial 8
+* Stash means storing something safely.
+* Use tortoisegit stash save write meaningful message before saving it.
+* Click on the include untracked option to perform an action with new files.
+* Use stash pop to get back the last stashed files.
+* Use stash list to check all the stashed. You can select the stash from there too.
