@@ -7,6 +7,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 2. [Tutorial 2 - How to clone git repository](#tutorial-2)
 3. [Tutorial 3 - git add (staging) , commit and push](#Tutorial-3)
 4. [Tutorial 4 - git fetch, merge and pull](#tutorial-4)
+5. [Tutorial 5 - git branching(How to create branch in github, fetch it and push changes](#tutorial-5)
 
 #### Summary of Course
 ###### Tutorial 1
@@ -26,3 +27,11 @@ Playlist Link: [https://youtube.com/playlist?list=PLMJfvBwcOl66_1UJV8ywUoL7mZFPI
 * Use tortoise git fetch option.
 * Select remote branch/repository.
 * The fetched file needs to be merged in a local branch.
+###### Tutorial 5
+* To create a new branch you need to be present in a master branch.
+* Go to the branches write a branch name and click on create branch "branch name".
+* While creating a new branch is always the same as the master branch at that time.
+* After creating a new branch it will fetch a new branch too in the local repository.
+* Use tortoise git switch/checkout to change the branch in the local repository.
+* We also have an option to change the branch name while changing the branch.
+* If you are using HTTPS it will ask for credentials but if you are working with SSH it will not ask for credentials.
