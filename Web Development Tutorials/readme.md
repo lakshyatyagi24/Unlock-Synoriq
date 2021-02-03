@@ -14,6 +14,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 9. [Tutorial 9 - Inline & Block Elements](#tutorial-9)
 10. [Tutorial 10 - Ids & Classes in HTML](#tutorial-10)
 11. [Tutorial 11 - HTML Entities](#tutorial-11)
+12. [Tutorial 12 - Semantic Tags in HTML](#tutorial-12)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -81,3 +82,6 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * &gt - >
 * &pound - pound symbol
 * &copy - copyright symbol
+###### Tutorial 12
+* details tag use for collapse and expansion.
+* summary tag is used to fix content.
