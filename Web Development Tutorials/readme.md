@@ -6,6 +6,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 1. [Tutorial 1 - Web Development Tutorials](#Tutorial-1)
 2. [Tutorial 2 - Installing VS Code & Live Server](#Tutorial-2)
 3. [Tutorial 3 - Basic Structure of a Website](#tutorial-3)
+4. [Tutorial 4 - Title, Script, Link & Meta Tags](#tutorial-4)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -18,3 +19,8 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * Head contains meta tags, title, link to the external sheets.
 * Body contains the displayed content of any webpage.
 * For comment use `<!-- -->` which will be ignored while loading by a browser.
+###### Tutorial 4
+* SEO (Search engine optimization) is used to increase web traffic.
+* Meta tags used to improve the SEO of the website.
+* link use to import external CSS file.
+* use script to import external JS files.
