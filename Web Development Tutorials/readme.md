@@ -9,6 +9,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 4. [Tutorial 4 - Title, Script, Link & Meta Tags](#tutorial-4)
 5. [Tutorial 5 - Headings & Paragraphs](#tutorial-5)
 6. [Tutorial 6 - Img and Anchor tags](#tutorial-6)
+7. [Tutorial 7 - Lists and Tables](#tutorial-7)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -50,3 +51,11 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 ```
 > src is used to get the image via a link or local directory.
 > alt is used to display meaningful text if the image is not present.
+###### Tutorial 7
+* we use ul for an unordered list and ol ordered list.
+* Use the type attribute to change the list type.
+* Use table tag.
+* thead to enter the head of the table.
+* tr for table row.
+* th for table head value.
+* td for table data.
