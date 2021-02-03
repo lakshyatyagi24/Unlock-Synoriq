@@ -11,6 +11,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 6. [Tutorial 6 - Img and Anchor tags](#tutorial-6)
 7. [Tutorial 7 - Lists and Tables](#tutorial-7)
 8. [Tutorial 8 - Forms & Input Tags](#tutorial-8)
+9. [Tutorial 9 - Inline & Block Elements](#tutorial-9)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -66,3 +67,6 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * Use div tag to divide content.
 * use Textarea tag to create a big input box.
 * Select tag to create dropdown.
+###### Tutorial 9
+* inline tags are those after using that tag it will come in the same line.
+* Block element will take complete block space.
