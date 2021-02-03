@@ -1,6 +1,6 @@
 # Unlock-Synoriq
 
-## Git and GitHub Beginner
+## How the Web works
 Video Link: [https://youtu.be/hJHvdBlSxug](https://youtu.be/hJHvdBlSxug)
 
 ###### Summary
