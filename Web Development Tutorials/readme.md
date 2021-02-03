@@ -10,6 +10,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 5. [Tutorial 5 - Headings & Paragraphs](#tutorial-5)
 6. [Tutorial 6 - Img and Anchor tags](#tutorial-6)
 7. [Tutorial 7 - Lists and Tables](#tutorial-7)
+8. [Tutorial 8 - Forms & Input Tags](#tutorial-8)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -59,3 +60,9 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * tr for table row.
 * th for table head value.
 * td for table data.
+###### Tutorial 8
+* form tag to create form.
+* input tag to take input. Use type abbreviation to decide the input type (text, number, email, etc).
+* Use div tag to divide content.
+* use Textarea tag to create a big input box.
+* Select tag to create dropdown.
