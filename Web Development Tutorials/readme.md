@@ -13,6 +13,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 8. [Tutorial 8 - Forms & Input Tags](#tutorial-8)
 9. [Tutorial 9 - Inline & Block Elements](#tutorial-9)
 10. [Tutorial 10 - Ids & Classes in HTML](#tutorial-10)
+11. [Tutorial 11 - HTML Entities](#tutorial-11)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -74,3 +75,9 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 ###### Tutorial 10
 * id is an identifier. we can give any name as an id. It can't be the same in a file.
 * class contains much property and can be used many times.
+###### Tutorial 11
+* &nbsp- non breaking space
+* &lt - <
+* &gt - >
+* &pound - pound symbol
+* &copy - copyright symbol
