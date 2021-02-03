@@ -7,6 +7,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 2. [Tutorial 2 - Installing VS Code & Live Server](#Tutorial-2)
 3. [Tutorial 3 - Basic Structure of a Website](#tutorial-3)
 4. [Tutorial 4 - Title, Script, Link & Meta Tags](#tutorial-4)
+5. [Tutorial 5 - Headings & Paragraphs](#tutorial-5)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -24,3 +25,14 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * Meta tags used to improve the SEO of the website.
 * link use to import external CSS file.
 * use script to import external JS files.
+###### Tutorial 5
+* Emmet helps in writing fast HTML code.
+* H1 to H6 are 6 heading tags (Descending Order).
+* Use the toggle word-wrap feature to do word wrap.
+* Strong tag is used to bold any character/word.
+* em tag is used to emphasize any character/word.
+* HTML ignores all extra spaces.
+* Use br tag for a line break.
+* HR tag use to create a horizontal rule.
+> ctrl+enter to jump into new line.<br>
+> lorem23 for dummy text with 23 words<br>
