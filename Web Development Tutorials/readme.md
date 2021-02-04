@@ -16,6 +16,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 11. [Tutorial 11 - HTML Entities](#tutorial-11)
 12. [Tutorial 12 - Semantic Tags in HTML](#tutorial-12)
 13. [Tutorial 13 - Introduction to CSS](#tutorial-13)
+14. [Tutorial 14 - Inline, Internal & External CSS](#tutorial-14)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -93,3 +94,10 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * Inline CSS: Using CSS directly in a tag.
 * Internal CSS: creating CSS inside the head tag.
 * External CSS: Creating a new file for CSS and link inside the head tag.
+###### Tutorial 14
+* Inline CSS
+* Internal CSS - We write this CSS inside the style tag.
+* Browser will give preference to inline CSS.
+* We use a link to use an external CSS file.
+* Browser will give preference to the last linked CSS file.
+* Use `!important` to change the preference.
