@@ -15,6 +15,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 10. [Tutorial 10 - Ids & Classes in HTML](#tutorial-10)
 11. [Tutorial 11 - HTML Entities](#tutorial-11)
 12. [Tutorial 12 - Semantic Tags in HTML](#tutorial-12)
+13. [Tutorial 13 - Introduction to CSS](#tutorial-13)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -85,3 +86,10 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 ###### Tutorial 12
 * details tag use for collapse and expansion.
 * summary tag is used to fix content.
+###### Tutorial 13
+* CSS stands for Cascading Style Sheet.
+* CSS looks for the content written in HTML. Also, it makes content responsive.
+* CSS Syntax `selector { property : value; }`.
+* Inline CSS: Using CSS directly in a tag.
+* Internal CSS: creating CSS inside the head tag.
+* External CSS: Creating a new file for CSS and link inside the head tag.
