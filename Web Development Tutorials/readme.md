@@ -17,6 +17,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 12. [Tutorial 12 - Semantic Tags in HTML](#tutorial-12)
 13. [Tutorial 13 - Introduction to CSS](#tutorial-13)
 14. [Tutorial 14 - Inline, Internal & External CSS](#tutorial-14)
+15. [Tutorial 15 - Selectors in CSS](#tutorial-15)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -101,3 +102,8 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * We use a link to use an external CSS file.
 * Browser will give preference to the last linked CSS file.
 * Use `!important` to change the preference.
+###### Tutorial 15
+* Selectors are used to targeting HTML elements.
+* Element selector is just an HTML tag.
+* To apply CSS on a particular part use id selector which is declared by pound symbol '#'.
+* To apply CSS on class use class selector which declared by a dot '.'.
