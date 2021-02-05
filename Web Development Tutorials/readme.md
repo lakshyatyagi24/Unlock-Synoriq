@@ -28,6 +28,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 23. [Tutorial 23 - Creating a Navigation Menu](#tutorial-23)
 24. [Tutorial 24 - CSS Display Property](#tutorial-24)
 25. [Tutorial 25 - Position absolute, relative, fixed and sticky in CSS](#tutorial-25)
+26. [Tutorial 26 - Creating a Gym Website Using HTML5 & CSS3](#tutorial-26)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -173,3 +174,5 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * absolute property positoned it according to parent body.
 * fixed property make the element fix during scrolling.
 * sticky property make element fix on top during scrolling.
+###### Tutorial 26
+* Created Project
