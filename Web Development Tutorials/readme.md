@@ -18,6 +18,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 13. [Tutorial 13 - Introduction to CSS](#tutorial-13)
 14. [Tutorial 14 - Inline, Internal & External CSS](#tutorial-14)
 15. [Tutorial 15 - Selectors in CSS](#tutorial-15)
+16. [Tutorial 16 - Using Chrome Developer Tools](#tutorial-16)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -107,3 +108,5 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * Element selector is just an HTML tag.
 * To apply CSS on a particular part use id selector which is declared by pound symbol '#'.
 * To apply CSS on class use class selector which declared by a dot '.'.
+###### Tutorial 16
+* Use inspect element to change the view, CSS.
