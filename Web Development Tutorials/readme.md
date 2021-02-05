@@ -19,6 +19,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 14. [Tutorial 14 - Inline, Internal & External CSS](#tutorial-14)
 15. [Tutorial 15 - Selectors in CSS](#tutorial-15)
 16. [Tutorial 16 - Using Chrome Developer Tools](#tutorial-16)
+17. [Tutorial 17 - Fonts In CSS](#tutorial-17)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -110,3 +111,13 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * To apply CSS on class use class selector which declared by a dot '.'.
 ###### Tutorial 16
 * Use inspect element to change the view, CSS.
+###### Tutorial 17
+* We use font-family to declare fonts.
+* Web safe fonts are those that are already installed in mostly Operating Systems.
+* Web fonts are those which we fetched from the web through URL.
+* Font stack is used so if any font is not available in the operating system so it will check the next font available in the stack.
+* cssfontstack is for web-safe fonts and google fonts for web fonts.
+* we use font-size to change the size of the font.
+* line-height is used to add the space before the new line.
+* font-weight - bold
+* font-style - style of font.
