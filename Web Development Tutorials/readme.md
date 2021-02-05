@@ -20,6 +20,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 15. [Tutorial 15 - Selectors in CSS](#tutorial-15)
 16. [Tutorial 16 - Using Chrome Developer Tools](#tutorial-16)
 17. [Tutorial 17 - Fonts In CSS](#tutorial-17)
+18. [Tutorial 18 - Colors In CSS](#tutorial-18)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -121,3 +122,6 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * line-height is used to add the space before the new line.
 * font-weight - bold
 * font-style - style of font.
+###### Tutorial 18
+* color is used to change the text color.
+* We can write the color name or hexacode or RGB (value needs to be in 0 to 255.
