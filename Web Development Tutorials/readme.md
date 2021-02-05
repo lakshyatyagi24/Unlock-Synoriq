@@ -25,6 +25,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 20. [Tutorial 20 - CSS Box Model, Margin and Padding](#tutorial-20)
 21. [Tutorial 21 - Float & Clear Explained](#tutorial-21)
 22. [Tutorial 22 - Styling Links & Buttons](#tutorial-22)
+23. [Tutorial 23 - Creating a Navigation Menu](#tutorial-23)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -159,3 +160,5 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * use `tag: hover` to make changes if we move the cursor on it.
 * use `tag: visited` to make changes if the user clicked on it.
 * use `tag: active` to make changes when we are clicking it.
+###### Tutorial 23
+* use list-style to change the style of li tag.
