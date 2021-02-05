@@ -27,6 +27,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 22. [Tutorial 22 - Styling Links & Buttons](#tutorial-22)
 23. [Tutorial 23 - Creating a Navigation Menu](#tutorial-23)
 24. [Tutorial 24 - CSS Display Property](#tutorial-24)
+25. [Tutorial 25 - Position absolute, relative, fixed and sticky in CSS](#tutorial-25)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -166,3 +167,9 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 ###### Tutorial 24
 * Use the display to set the type of display (inline, block, flex, etc).
 * We can't set the width of the inline.
+###### Tutorial 25
+* Position: static (default), absolute, relative, fixed, sticky.
+* Relative property makes move from it's original place without disturbing other elements.
+* absolute property positoned it according to parent body.
+* fixed property make the element fix during scrolling.
+* sticky property make element fix on top during scrolling.
