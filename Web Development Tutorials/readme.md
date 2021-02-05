@@ -22,6 +22,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 17. [Tutorial 17 - Fonts In CSS](#tutorial-17)
 18. [Tutorial 18 - Colors In CSS](#tutorial-18)
 19. [Tutorial 19 - Borders and Backgrounds](#tutorial-19)
+20. [Tutorial 20 - CSS Box Model, Margin and Padding](#tutorial-20)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -139,3 +140,9 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * background-image is used to define the image background of any content.
 * background-repeat is used to control the repeat of any image at the x-axis, y-axis.
 * `background-position: x-axis y-axis` used to define the position of background in a block.
+###### Tutorial 20
+* Box Model - content -> padding -> border -> margin
+* Padding is used to give the space between the border and content.
+* margin is used to give space outside the border.
+* box-sizing is used to adjust the size of the block according to padding and margin.
+* Use '*' to use that CSS for the complete page.
