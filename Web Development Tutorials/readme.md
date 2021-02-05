@@ -21,6 +21,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 16. [Tutorial 16 - Using Chrome Developer Tools](#tutorial-16)
 17. [Tutorial 17 - Fonts In CSS](#tutorial-17)
 18. [Tutorial 18 - Colors In CSS](#tutorial-18)
+19. [Tutorial 19 - Borders and Backgrounds](#tutorial-19)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -125,3 +126,16 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 ###### Tutorial 18
 * color is used to change the text color.
 * We can write the color name or hexacode or RGB (value needs to be in 0 to 255.
+###### Tutorial 19
+* background-color is used to give the colored background of any content.
+* height defines the height of the particular block.
+* width defines the width of a particular block.
+* border-color is used to define the color of the border.
+* border-style is used to define the style (solid, dashed, etc.) of the border.
+* border-width is used to define the thickness of the border.
+* border-radius is used to make corners curvy.
+* `border: width style color` easy syntax.
+* border-top/border-right/border-left/border-bottom is used to make border on that size.
+* background-image is used to define the image background of any content.
+* background-repeat is used to control the repeat of any image at the x-axis, y-axis.
+* `background-position: x-axis y-axis` used to define the position of background in a block.
