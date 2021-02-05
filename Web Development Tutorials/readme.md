@@ -23,6 +23,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 18. [Tutorial 18 - Colors In CSS](#tutorial-18)
 19. [Tutorial 19 - Borders and Backgrounds](#tutorial-19)
 20. [Tutorial 20 - CSS Box Model, Margin and Padding](#tutorial-20)
+21. [Tutorial 21 - Float & Clear Explained](#tutorial-21)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -146,3 +147,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * margin is used to give space outside the border.
 * box-sizing is used to adjust the size of the block according to padding and margin.
 * Use '*' to use that CSS for the complete page.
+###### Tutorial 21
+* `margin: auto` is used to place content in the center.
+* float will use to float any content on the screen. This content can be overlapped.
+* To avoid overlapping of content use clean.
