@@ -30,6 +30,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 25. [Tutorial 25 - Position absolute, relative, fixed and sticky in CSS](#tutorial-25)
 26. [Tutorial 26 - Creating a Gym Website Using HTML5 & CSS3](#tutorial-26)
 27. [Tutorial 27 - Visibility & z-index Explained](#tutorial-27)
+28. [Tutorial 28 - CSS Flexbox](#tutorial-28)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -182,3 +183,8 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * display will work on both space and vision.
 * z-index will not work on static.
 * z-index will help to know the order of stack.
+###### Tutorial 28
+* the main axis is horizontal.
+* cross axis is vertical.
+* Use flex-wrap to make it responsive.
+* use flex-flow to set direction and wrap.
