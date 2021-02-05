@@ -24,6 +24,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 19. [Tutorial 19 - Borders and Backgrounds](#tutorial-19)
 20. [Tutorial 20 - CSS Box Model, Margin and Padding](#tutorial-20)
 21. [Tutorial 21 - Float & Clear Explained](#tutorial-21)
+22. [Tutorial 22 - Styling Links & Buttons](#tutorial-22)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -151,3 +152,10 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * `margin: auto` is used to place content in the center.
 * float will use to float any content on the screen. This content can be overlapped.
 * To avoid overlapping of content use clean.
+###### Tutorial 22
+* Use anchor tag to display content as a link.
+* use button tag to display content like a button.
+* text-decoration is used to remove/add style in text.
+* use `tag: hover` to make changes if we move the cursor on it.
+* use `tag: visited` to make changes if the user clicked on it.
+* use `tag: active` to make changes when we are clicking it.
