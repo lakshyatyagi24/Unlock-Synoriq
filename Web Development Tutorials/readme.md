@@ -26,6 +26,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 21. [Tutorial 21 - Float & Clear Explained](#tutorial-21)
 22. [Tutorial 22 - Styling Links & Buttons](#tutorial-22)
 23. [Tutorial 23 - Creating a Navigation Menu](#tutorial-23)
+24. [Tutorial 24 - CSS Display Property](#tutorial-24)
 
 ###### Tutorial 1
 * HTML, CSS, and JavaScript are the basic requirements to build any website. (HTML is strictly needed)
@@ -162,3 +163,6 @@ Playlist Link: [https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzP
 * use `tag: active` to make changes when we are clicking it.
 ###### Tutorial 23
 * use list-style to change the style of li tag.
+###### Tutorial 24
+* Use the display to set the type of display (inline, block, flex, etc).
+* We can't set the width of the inline.
