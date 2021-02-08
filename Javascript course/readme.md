@@ -10,7 +10,8 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 5. [Tutorial 5 - Variable and datatypes in javascript](#tutorial-5)
 6. [Tutorial 6 - Our first User Signup](#tutorial-6)
 7. [Tutorial 7 - Operators in javascript | Calculate discount](#tutorial-7)
-8. [Tutorial 8 - What are conditionals in javascript](#tutorial-8)
+8. [Type and Operator precedence in javascript](#tutorial-8)
+9. [Tutorial 9 - What are conditionals in javascript](#tutorial-9)
 
 ###### Tutorial 1
 * Introduction of Course.
@@ -39,5 +40,7 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 * variable name can't start with a number.
 * We can use `Math.round()` function to display only integer value.
 ###### Tutorial 8
+* use typeof function to know the type of any variable.
+###### Tutorial 9
 * if and else works on boolean value.
 * '>', '<', '<=', '>=' and '===' are conditional operators.
