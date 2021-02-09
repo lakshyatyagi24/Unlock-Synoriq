@@ -18,6 +18,11 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 13. [Tutorial 13 - Coercion and falsy values in JavaScript](#tutorial-13)
 14. [Tutorial 14 - Basics of functions in javascript](#tutorial-14)
 15. [Tutorial 15 - Functions in variable | User Role in javascript](#tutorial-15)
+16. [Tutorial 16 - Understand the context in javascript](#tutorial-16)
+17. [Tutorial 17 - Code hoisting in javascript](#tutorial-17)
+18. [Tutorial 18 - Scope chaining in javascript](#tutorial-18)
+19. [Tutorial 19 - Light intro to THIS in javascript](#tutorial-19)
+20. [Tutorial 20 - Introduction to Array in javascript](#tutorial-20)
 
 ###### Tutorial 1
 * Introduction of Course.
@@ -66,3 +71,22 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 * we normally use the function when we need the same thing again and again.
 ###### Tutorial 15
 * break is not necessary if we are using a return in the switch.
+###### Tutorial 16
+* Context
+###### Tutorial 17
+* Context
+###### Tutorial 18
+* Global and Local Variable.
+* Which variable is global for which function.
+###### Tutorial 19
+* use `console.log(this)` to get the global context.
+###### Tutorial 20
+* For declaring array we need to use braces.
+* new array syntax `var var_name = new Array()`.
+* use `arr_name.length` to know the elements in an array.
+* use `arr_name.pop()` to remove the last element of an array.
+* use `arr_name.unshift("new_value")` to add a new element in start of array.
+* use `arr_name.shift()` to remove first element of array.
+* use `arr_name.indexof("element")` to know the index position of that element.
+* In case the element is not present it will return -1.
+* use `Array.from("string")` to get the array of character of this string.
