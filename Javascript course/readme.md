@@ -28,6 +28,11 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 23. [Tutorial 23 - Slice and Splice in Javascript](#tutorial-23)
 24. [Tutorial 24 - Objects in Javascript](#tutorial-24)
 25. [Tutorial 25 - Methods and objects in javascript](#tutorial-25)
+26. [Tutorial 26 - For loop basics in Javascript](#tutorial-26)
+27. [Tutorial 27 - While and do while loops in javascript](#tutorial-27)
+28. [Tutorial 29 - For Each loop in javascript](#tutorial-29)
+29. [Tutorial 30 - For in and for of loop in javascript](#tutorial-30)
+30. [Tutorial 31 - Confusing part of THIS in javascript](#tutorial-31)
 
 ###### Tutorial 1
 * Introduction of Course.
@@ -107,3 +112,21 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 * objects
 ###### Tutorial 25
 * use 'this' inside the object.
+###### Tutorial 26
+* loop syntax - `for(initialVar; condition; operation) { }`
+###### Tutorial 27
+* syntax
+```javascript
+intialVar
+while(condition){
+operation
+}
+```
+* do while loop do first then check condition.
+###### Tutorial 29
+* use forEach method to traverse all elements of array. Syntax - `arrName.forEach()`.
+###### Tutorial 30
+* for of is used for array.
+* for in is used for objects.
+###### Tutorial 31
+* this calls window object.
