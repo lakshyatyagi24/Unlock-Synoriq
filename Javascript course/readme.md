@@ -23,6 +23,11 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 18. [Tutorial 18 - Scope chaining in javascript](#tutorial-18)
 19. [Tutorial 19 - Light intro to THIS in javascript](#tutorial-19)
 20. [Tutorial 20 - Introduction to Array in javascript](#tutorial-20)
+21. [Tutorial 21 - Callback and arrow function introduction in array](#tutorial-21)
+22. [Tutorial 22 - Fill and Filter in Array in Javascript](#tutorial-22)
+23. [Tutorial 23 - Slice and Splice in Javascript](#tutorial-23)
+24. [Tutorial 24 - Objects in Javascript](#tutorial-24)
+25. [Tutorial 25 - Methods and objects in javascript](#tutorial-25)
 
 ###### Tutorial 1
 * Introduction of Course.
@@ -90,3 +95,15 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 * use `arr_name.indexof("element")` to know the index position of that element.
 * In case the element is not present it will return -1.
 * use `Array.from("string")` to get the array of character of this string.
+###### Tutorial 21
+* new syntax to declare function `var varName = (passedVariable) => { }`.
+* `arrName.every(funcName)` is used to check with all element of array and returns true or false.
+###### Tutorial 22
+* `arrName.fill(element, startPosition, endPosition)` is use to replace elements with passed element.
+###### Tutorial 23
+* `arrName.slice(startPosition, endPosition)` is used to get the elements in this range.
+* `arrName.splice(startPosition, endPosition, element)` is used to replace ranged element by passed element.
+###### Tutorial 24
+* objects
+###### Tutorial 25
+* use 'this' inside the object.
