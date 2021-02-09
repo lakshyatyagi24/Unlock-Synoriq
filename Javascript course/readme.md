@@ -14,6 +14,10 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 9. [Tutorial 9 - What are conditionals in javascript](#tutorial-9)
 10. [Tutorial 10 - Logical conditional Login in javascript](#tutorial-10)
 11. [Tutorial 11 - Ternary operator in javascript](#tutorial-11)
+12. [Tutorial 12 - Switch for role based access in javascript](#tutorial-12)
+13. [Tutorial 13 - Coercion and falsy values in JavaScript](#tutorial-13)
+14. [Tutorial 14 - Basics of functions in javascript](#tutorial-14)
+15. [Tutorial 15 - Functions in variable | User Role in javascript](#tutorial-15)
 
 ###### Tutorial 1
 * Introduction of Course.
@@ -50,3 +54,15 @@ Playlist Link: [https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsO
 * Use '&&' as AND Operator and '||' as OR Operator.
 ###### Tutorial 11
 * Ternary operator syntax `variable ? 'if true then this' : 'else this'`.
+###### Tutorial 12
+* switch just matches the key with a value.
+* In case key and value don't match it execute default option.
+* we use the break to exit the switch block.
+###### Tutorial 13
+* If we use '==' it will match both string and integer (It will do lenient checking).
+* If we use '===' it will match the exact data type (It will do strict checking).
+###### Tutoria 14
+* use function keyword before writing function name to declare as a function.
+* we normally use the function when we need the same thing again and again.
+###### Tutorial 15
+* break is not necessary if we are using a return in the switch.
