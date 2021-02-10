@@ -8,6 +8,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 3. [Code editors](#tutorial-3)
 4. [Developer console](#tutorial-4)
 5. [JavaScript Fundamentals](#tutorial-5)
+6. [The modern mode, "use strict"](#tutorial-6)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -28,3 +29,5 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 * JavaScript interprets the line break as an “implicit” semicolon. This is called an automatic semicolon insertion.
 * We use `//` for single line comment and `/* */` for multiline comment.
 * We can't use a nested multiline comment.
+###### Tutorial 6
+* We use 'use script' to work the modern javascript way.
