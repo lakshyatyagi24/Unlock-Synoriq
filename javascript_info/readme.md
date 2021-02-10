@@ -9,6 +9,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 4. [Developer console](#tutorial-4)
 5. [JavaScript Fundamentals](#tutorial-5)
 6. [The modern mode, "use strict"](#tutorial-6)
+7. [Variables](#tutorial-7)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -31,3 +32,17 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 * We can't use a nested multiline comment.
 ###### Tutorial 6
 * We use 'use script' to work the modern javascript way.
+###### Tutorial 7
+* Variable is used to store data.
+* Use the let keyword to declare the variable.
+* var is an old method to declare variables.
+* variable can't be declared again with the same name.
+* first character of the variable can't be a number.
+* Case sensitive.
+* const declares an unchangeable variable.
+
+
+
+
+
+
