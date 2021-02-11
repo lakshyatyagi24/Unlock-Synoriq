@@ -10,6 +10,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 5. [JavaScript Fundamentals](#tutorial-5)
 6. [The modern mode, "use strict"](#tutorial-6)
 7. [Variables](#tutorial-7)
+8. [Data types](#tutorial-8)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -26,7 +27,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 * Use developer tools to see an error in the browser.
 * To write multiline code in console use `shift+enter`.
 ###### Tutorial 5
-* We insert/write JavaScript code inside <script> tag.
+* We insert/write JavaScript code inside `<script>` tag.
 * JavaScript interprets the line break as an “implicit” semicolon. This is called an automatic semicolon insertion.
 * We use `//` for single line comment and `/* */` for multiline comment.
 * We can't use a nested multiline comment.
@@ -40,9 +41,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 * first character of the variable can't be a number.
 * Case sensitive.
 * const declares an unchangeable variable.
-
-
-
-
-
-
+###### Tutorial 8
+* basic data types we have in JS.
+* String, Number, Big Int, Boolean, null, undefined, Object, Symbol.
+* Special Numeric Values "Infinity", "-Infinity" and NaN.
