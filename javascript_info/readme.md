@@ -14,6 +14,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 9. [Interaction: alert, prompt, confirm](#tutorial-9)
 10. [Type Conversions](#tutorial-10)
 11. [Basic operators, maths](#tutorial-11)
+12. [Comparisons](#tutorial-12)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -64,3 +65,6 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 * `=` is used as an assignment operator.
 * `++` is used for increment and `--` is used for decrement by 1.
 * Bitwise return in bool.
+###### Tutorial 12
+* comparison operators Return bool value. True for correct and False for incorrect.
+* for strict equality check we use `===` else we use `==`.
