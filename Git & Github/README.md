@@ -10,7 +10,6 @@ Playlist Link: [https://youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5
 5. [Tutorial 5 - Branching and Merging](#Tutorial-5)
 6. [Tutorial 6 - How to send email from GitHub](#Tutorial-6)
 7. [Tutorial 7 - Git Tags - what, why, when and how](#Tutorial-7)
-8. [abc](https://github.com/lakshyatyagi24/Unlock-Synoriq/tree/main/javascript_info#tutorial-14)
 
 #### Summary of Course
 ###### Tutorial 1
