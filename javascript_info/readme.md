@@ -24,7 +24,10 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 19. [Function expressions](#tutorial-19)
 20. [Arrow functions, the basics](#tutorial-20)
 21. [JavaScript specials](#tutorial-21)
-
+22. [Debugging in Chrome](#tutorial-22)
+23. [Coding Style](#tutorial-23)
+24. [Comments](#tutorial-24)
+25. [Ninja code](#tutorial-25)
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
 * JavaScript can run in any JavaScript engine. It can be a browser, server, or Device.
@@ -116,12 +119,20 @@ for (begin; condition; step) {
 * switch statement is used to replace multiple if.
 * We can also do a grouping of cases.
 ###### Tutorial 18
-* Function allow the code to be called many times without repetition.
-* We use return to return a value.
+* Function allows the code to be called many times without repetition.
+* We use the return to return a value.
 ###### Tutorial 19
 * we can also declare a function in a variable.
 ###### Tutorial 20
 * We use arrow function to create better function.
 ###### Tutorial 21
-* linebreak is treated as delimiter.
+* linebreak is treated as a delimiter.
 * brief of javascript basics.
+###### Tutorial 22
+* debugging is finding and fix errors.
+* use `debugger` to pause code.
+###### Tutorial 23
+* Use linters. They do the automatic check and do the correction.
+###### Tutorial 24
+* we use `//` for single line comments.
+* we use `/* */` for multiline comments.
