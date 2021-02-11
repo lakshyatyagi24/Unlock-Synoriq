@@ -135,5 +135,5 @@ for (begin; condition; step) {
 * Use linters. They do the automatic check and do the correction.
 ###### Tutorial 24
 * we use `//` for single line comments.
-* we use `/* */` for multiline comments.
+* we use `/* */` for multiline comments.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; hello
