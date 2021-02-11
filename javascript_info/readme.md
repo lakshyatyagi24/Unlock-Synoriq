@@ -12,6 +12,7 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 7. [Variables](#tutorial-7)
 8. [Data types](#tutorial-8)
 9. [Interaction: alert, prompt, confirm](#tutorial-9)
+10. [Type Conversions](#tutorial-10)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -50,3 +51,6 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 * Alert will show a message and wait for user response.
 * prompt returns the text entered by the user. If the user doesn't enter any text it will return null.
 * confirm comes like a question in a model.
+###### Tutorial 10
+* Use `String(value)` for string conversion.
+* Automatic conversion of string to number if we apply `/` to a numeric string.
