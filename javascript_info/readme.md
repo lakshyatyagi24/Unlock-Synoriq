@@ -19,6 +19,11 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 14. [Logical operators](#tutorial-14)
 15. [Nullish coalescing operator '??'](#tutorial-15)
 16 [Loops: while and for](#tutorial-16)
+17. [The "switch" statement](#tutorial-17)
+18. [Functions](#tutorial-18)
+19. [Function expressions](#tutorial-19)
+20. [Arrow functions, the basics](#tutorial-20)
+21. [JavaScript specials](#tutorial-21)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -107,3 +112,16 @@ for (begin; condition; step) {
 ```
 * Use the break to break the loop.
 * continue just to stop the current iteration.
+###### Tutorial 17
+* switch statement is used to replace multiple if.
+* We can also do a grouping of cases.
+###### Tutorial 18
+* Function allow the code to be called many times without repetition.
+* We use return to return a value.
+###### Tutorial 19
+* we can also declare a function in a variable.
+###### Tutorial 20
+* We use arrow function to create better function.
+###### Tutorial 21
+* linebreak is treated as delimiter.
+* brief of javascript basics.
