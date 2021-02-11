@@ -15,6 +15,10 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 10. [Type Conversions](#tutorial-10)
 11. [Basic operators, maths](#tutorial-11)
 12. [Comparisons](#tutorial-12)
+13. [Conditional branching: if, '?'](#tutorial-13)
+14. [Logical operators](#tutorial-14)
+15. [Nullish coalescing operator '??'](#tutorial-15)
+16 [Loops: while and for](#tutorial-16)
 
 ###### Tutorial 1
 * Due to ECMAScript, JavaScript became a fully independent language.
@@ -68,3 +72,38 @@ Documentation Link: [https://javascript.info/](https://javascript.info/)
 ###### Tutorial 12
 * comparison operators Return bool value. True for correct and False for incorrect.
 * for strict equality check we use `===` else we use `==`.
+###### Tutorial 13
+* if block only executes when it passes the given condition.
+* 0 is a false condition and 1 is a true condition.
+* else block executes when the condition is false.
+###### Tutorial 14
+* Logical operators also work on bool.
+* Or will return true if it finds anyone as true.
+* and will return true if it founds everyone as true
+* Not just revert the bool expression.
+###### Tutorial 15
+* ?? is used for the defined value. If it defines then it will return true.
+###### Tutorial 16
+* While loop syntax.
+```JS
+while (condition) {
+  // code
+  // so-called "loop body"
+}
+```
+* again this checks the condition and if the condition is true then only it executes the block.
+* do while loop syntax
+```js
+do {
+  // loop body
+} while (condition);
+```
+* do while first execute the block then check condition.
+* for loop syntax
+```js
+for (begin; condition; step) {
+  // ... loop body ...
+}
+```
+* Use the break to break the loop.
+* continue just to stop the current iteration.
