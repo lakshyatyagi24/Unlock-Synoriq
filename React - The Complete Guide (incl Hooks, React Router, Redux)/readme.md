@@ -21,6 +21,12 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 16. [ Understanding Classes](#tutorial-16)
 17. [Classes, Properties and Methods](#tutorial-17)
 18. [The Spread & Rest Operator](#tutorial-18)
+19. [Destructuring](#tutorial-19)
+20. [Reference and Primitive Types Refresher](#tutorial-20)
+21. [Refreshing Array Functions](#tutorial-21)
+22. [Wrap Up](#tutorial-22)
+23. [Next-Gen JavaScript - Summary](#tutorial-23)
+24. [JS Array Functions](#tutorial-24)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -82,3 +88,15 @@ const myFunc = () => {
 * syntax `...`
 * Merge operator is used to merge array/list.
 * syntax `...`
+###### Tutorial 19
+* Destructing easily extract array/object propoerty and store that in a variable.
+###### Tutorial 20
+* Object reference the value (copy the pointer).
+###### Tutorial 21
+* map is used to map previous array element with new one.
+###### Tutorial 22
+
+###### Tutorial 23
+* MDN Documentation: [ https://developer.mozilla.org/en-US/docs/Web/JavaScript/]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+###### Tutorial24
+* JavaScript array functions like map() , filter() , reduce()
