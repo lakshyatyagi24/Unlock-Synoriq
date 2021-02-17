@@ -9,6 +9,11 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 4. [Real-World SPAs & React Web Apps](#tutorial-4)
 5. [Writing our First React Code](#tutorial-5)
 6. [Why Should we Choose React?](#tutorial-6)
+7. [React Alternatives](#tutorial-7)
+8. [Understanding Single Page Applications and Multi Page Applications](#tutorial-8)
+9. [Course Outline](#tutorial-9)
+10. [How to get the Most out of This Course](#tutorial-10)
+11. [Useful Resources & Links](#tutorial-11)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -26,3 +31,13 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 ###### Tutorial 6
 * We can easily write complex code.
 * React saves our time.
+###### Tutorial 7
+* Angular, VUE, JQuery, 
+###### Tutorial 8
+* We have to type of application 1st Single Page and 2nd Multi Page Application.
+###### Tutorial 9
+* Course Outline
+###### Tutorial 10
+* Continous coding
+###### Tutorial 11
+* documentation: https://reactjs.org/
