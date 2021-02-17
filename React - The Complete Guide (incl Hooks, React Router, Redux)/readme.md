@@ -14,6 +14,13 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 9. [Course Outline](#tutorial-9)
 10. [How to get the Most out of This Course](#tutorial-10)
 11. [Useful Resources & Links](#tutorial-11)
+12. [Module Introduction](#tutorial-12)
+13. [Understanding "let" and "const"](#tutorial-13)
+14. [Arrow Functions](#tutorial-14)
+15. [Exports and Imports](#tutorial-15)
+16. [ Understanding Classes](#tutorial-16)
+17. [Classes, Properties and Methods](#tutorial-17)
+18. [The Spread & Rest Operator](#tutorial-18)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -41,3 +48,37 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 * Continous coding
 ###### Tutorial 11
 * documentation: https://reactjs.org/
+###### Tutorial 12
+* latest javascript
+###### Tutorial 13
+* var is older version
+* let and const are latest.
+* we use let for variable values.
+* we use const for fixed values.
+* Give TypeError if we try to change const value.
+###### Tutorial 14
+* Syntax of arrow function
+```js
+const myFunc = () => {
+    ...
+    }
+```
+* this keyword don't give any issues in arrow function
+###### Tutorial 15
+* we can import or export any function of any file to any other file.
+* export syntax `export default funcName` or `export const varName = value`
+* In case of function our import syntax looks like `import funcName from filePath` and in case of variable our import syntax looks like `import { varName } from filePath`.
+###### Tutorial 16
+* class contains property and methods.
+* we can create constructor.
+* we can use inheritance in class.
+* to call class we need to store it in a const variable.
+* we need to use `super();` function to call parent class.
+###### Tutorial 17
+* we can skip the constructor function in ES7.
+* ES7 have arrow function to declare a method.
+###### Tutorial 18
+* Spread operator is used to split array or object properties.
+* syntax `...`
+* Merge operator is used to merge array/list.
+* syntax `...`
