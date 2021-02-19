@@ -33,6 +33,11 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 28. [Understanding the Folder Structure](#tutorial-28)
 29. [Understanding Component Basics](#tutorial-29)
 30. [Understanding JSX](#tutorial-30)
+31. [JSX Restrictions](#tutorial-31)
+32. [Creating a Functional Component](#tutorial-32)
+33. [Components & JSX Cheat Sheet](#tutorial-33)
+34. [Working with Components & Re-Using Them](#tutorial-34)
+35. [Outputting Dynamic Content](#tutorial-35)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -127,3 +132,19 @@ const myFunc = () => {
 * We export as an default export.
 ###### Tutorial 30
 * render functioning in jsx.
+###### Tutorial 31
+* We can't use class.
+* We need to add any content in a single root element.
+###### Tutorial 32
+* Function syntax
+```js
+const funcName = (argumentList) => {
+
+}
+```
+###### Tutorial 33
+* JSX is NOT HTML but it looks a lot like it
+###### Tutorial 34
+* We can reuse any component.
+###### Tutorial 35
+* If we want something to treat as JS then we need to wrap inside curly braces.
