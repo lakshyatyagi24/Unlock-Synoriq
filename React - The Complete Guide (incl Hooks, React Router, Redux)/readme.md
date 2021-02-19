@@ -27,6 +27,12 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 22. [Wrap Up](#tutorial-22)
 23. [Next-Gen JavaScript - Summary](#tutorial-23)
 24. [JS Array Functions](#tutorial-24)
+25. [Module Introduction](#tutorial-25)
+26. [The Build Workflow](#tutorial-26)
+27. [Using Create React App](#tutorial-27)
+28. [Understanding the Folder Structure](#tutorial-28)
+29. [Understanding Component Basics](#tutorial-29)
+30. [Understanding JSX](#tutorial-30)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -98,5 +104,26 @@ const myFunc = () => {
 
 ###### Tutorial 23
 * MDN Documentation: [ https://developer.mozilla.org/en-US/docs/Web/JavaScript/]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-###### Tutorial24
+###### Tutorial 24
 * JavaScript array functions like map() , filter() , reduce()
+###### Tutorial 25
+###### Tutorial 26
+* Need to optimize code
+* Use Next-Gen JS Features.
+* Use dependency management tool like npm and yarn.
+* Use Bundler like webpack.
+* Advance compiler.
+* Development Server.
+###### Tutorial 27
+* use `npm install -g create-react-app` to install create-react-app library globally in system.
+* use `create-react-app appName` to install all necessary files.
+* use `npm start` inside the project directory to run the code on localhost. Then open [http://localhost:3000](http://localhost:3000).
+###### Tutorial 28
+* check all installed dependencies in package.json file.
+* Also you can check some scripts there.
+* React projects contain only 1 html file.
+###### Tutorial 29
+* Use render() method to render anything on screen.
+* We export as an default export.
+###### Tutorial 30
+* render functioning in jsx.
