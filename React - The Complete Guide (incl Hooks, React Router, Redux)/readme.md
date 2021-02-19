@@ -43,6 +43,11 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 38. [Understanding & Using State](#tutorial-38)
 39. [Props & State](#tutorial-39)
 40. [Handling Events with Methods](#tutorial-40)
+41. [To Which Events Can You Listen?](#tutorial-41)
+42. [Manipulating the State](#tutorial-42)
+43. [Function Components Naming](#tutorial-43)
+44. [Using the useState() Hook for State Manipulation](#tutorial-44)
+45. [Stateless vs Stateful Components](#tutorial-45)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -164,3 +169,13 @@ const funcName = (argumentList) => {
 * props  allow you to pass data from a parent (wrapping) component to a child (embedded) component.
 ###### Tutorial 40
 * Use `onClick={this.handlerName}` to change the state.
+###### Tutorial 41
+* 
+###### Tutorial 42
+* Use `this.setState(property: newValue)` allows us to change state
+###### Tutorial 43
+* 
+###### Tutorial 44
+* 
+###### Tutorial 45
+* Use maximum stateless components.
