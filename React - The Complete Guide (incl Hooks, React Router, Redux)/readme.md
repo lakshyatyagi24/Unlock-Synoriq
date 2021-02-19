@@ -38,6 +38,11 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 33. [Components & JSX Cheat Sheet](#tutorial-33)
 34. [Working with Components & Re-Using Them](#tutorial-34)
 35. [Outputting Dynamic Content](#tutorial-35)
+36. [Working with Props](#tutorial-36)
+37. [Understanding the "children" Prop](#tutorial-37)
+38. [Understanding & Using State](#tutorial-38)
+39. [Props & State](#tutorial-39)
+40. [Handling Events with Methods](#tutorial-40)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -148,3 +153,14 @@ const funcName = (argumentList) => {
 * We can reuse any component.
 ###### Tutorial 35
 * If we want something to treat as JS then we need to wrap inside curly braces.
+###### Tutorial 36
+* we use `props` which is used for all the properties.
+###### Tutorial 37
+* use `props.children` to print other content we didn't stored in variable. 
+###### Tutorial 38
+* We use state property to make it easier code.
+* To call any state property our syntax is `this.state.propertyName`.
+###### Tutorial 39
+* props  allow you to pass data from a parent (wrapping) component to a child (embedded) component.
+###### Tutorial 40
+* Use `onClick={this.handlerName}` to change the state.
