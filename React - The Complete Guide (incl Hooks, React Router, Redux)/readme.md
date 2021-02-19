@@ -48,6 +48,12 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 43. [Function Components Naming](#tutorial-43)
 44. [Using the useState() Hook for State Manipulation](#tutorial-44)
 45. [Stateless vs Stateful Components](#tutorial-45)
+46. [Passing Method References Between Components](#tutorial-46)
+47. [Adding Two Way Binding](#tutorial-47)
+48. [Adding Styling with Stylesheets](#tutorial-48)
+49. [Working with Inline Styles](#tutorial-49)
+50. [[OPTIONAL] Assignment Solution](#tutorial-50)
+51. [Useful Resources & Links](#tutorial-51)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -179,3 +185,20 @@ const funcName = (argumentList) => {
 * 
 ###### Tutorial 45
 * Use maximum stateless components.
+###### Tutorial 46
+* we need to refer to a component.
+###### Tutorial 47
+* change handler
+###### Tutorial 48
+* We need to import css file.
+* WebApp which help to call css file in js.
+###### Tutorial 49
+* we can also style by creating a const variable and add css property in it. Then call style property.
+###### Tutorial 50
+* Assignment
+###### Tutorial 51
+* create-react-app: https://github.com/facebookincubator/create-react-app
+* Introducing JSX: https://reactjs.org/docs/introducing-jsx.html
+* Rendering Elements: https://reactjs.org/docs/rendering-elements.html
+* Components & Props: https://reactjs.org/docs/components-and-props.html
+* Listenable Events: https://reactjs.org/docs/events.html
