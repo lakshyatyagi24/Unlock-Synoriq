@@ -66,16 +66,16 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 61. [Wrap Up](#tutorial-61)
 62. [[OPTIONAL] Assignment Solution](#tutorial-62)
 63. [Useful Resources & Links](#tutorial-63)
-64. [](#tutorial-64)
-65. [](#tutorial-65)
-66. [](#tutorial-66)
-67. [](#tutorial-67)
-68. [](#tutorial-68)
-69. [](#tutorial-69)
-70. [](#tutorial-70)
-71. [](#tutorial-71)
-72. [](#tutorial-72)
-73. [](#tutorial-73)
+64. [Module Introduction](#tutorial-64)
+65. [Outlining the Problem Set](#tutorial-65)
+66. [Setting Styles Dynamically](#tutorial-66)
+67. [etting Class Names Dynamically](#tutorial-67)
+68. [Adding and Using Radium](#tutorial-68)
+69. [Using Radium for Media Queries](#tutorial-69)
+70. [ Introducing Styled Components](#tutorial-70)
+71. [More on Styled Components](#tutorial-71)
+72. [Styled Components & Dynamic Styles](#tutorial-72)
+73. [Working with CSS Modules](#tutorial-73)
 74. [](#tutorial-74)
 75. [](#tutorial-75)
 76. [](#tutorial-76)
@@ -263,12 +263,22 @@ varName = (
 ###### Tutorial 65
 ###### Tutorial 66
 ###### Tutorial 67
+* Use join() function to join all elements of array and make a string. 
 ###### Tutorial 68
+* hover is a psudo selector.
+* when we take our cursor to hover css property it will change propoerty.
+* radium package which allow us to use inline style with pseudo selector.
 ###### Tutorial 69
+* We need to wrap everything in `<StyleRoot>` tag to use media query using radium.
 ###### Tutorial 70
+* Styled components are used to do good styling in react.
 ###### Tutorial 71
+* bit different from radium.
+* We have `StyledButton` in the place of button.
 ###### Tutorial 72
+* use `${}` to make it dynamically.
 ###### Tutorial 73
+* 
 ###### Tutorial 74
 ###### Tutorial 75
 ###### Tutorial 76
