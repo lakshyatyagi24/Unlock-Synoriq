@@ -54,6 +54,10 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 49. [Working with Inline Styles](#tutorial-49)
 50. [[OPTIONAL] Assignment Solution](#tutorial-50)
 51. [Useful Resources & Links](#tutorial-51)
+52. [Module Introduction](#tutorial-52)
+53. [ Rendering Content Conditionally](#tutorial-53)
+54. [Handling Dynamic Content "The JavaScript Way"](#tutorial-54)
+55. [Outputting Lists (Intro)](#tutorial-55)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -202,3 +206,9 @@ const funcName = (argumentList) => {
 * Rendering Elements: https://reactjs.org/docs/rendering-elements.html
 * Components & Props: https://reactjs.org/docs/components-and-props.html
 * Listenable Events: https://reactjs.org/docs/events.html
+###### Tutorial 52
+###### Tutorial 53
+* To make any content dynamic we put content isnde curly braces.
+###### Tutorial 54
+* To handle dynamic content in js way we need to declare a variable and add content in it and calls that variable.
+###### Tutorial 55
