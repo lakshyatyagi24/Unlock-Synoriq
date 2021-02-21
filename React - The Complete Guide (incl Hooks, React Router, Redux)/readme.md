@@ -63,7 +63,22 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 58. [Updating State Immutably](#tutorial-58)
 59. [Lists & Keys](#tutorial-59)
 60. [Flexible Lists](#tutorial-60)
-
+61. [Wrap Up](#tutorial-61)
+62. [[OPTIONAL] Assignment Solution](#tutorial-62)
+63. [Useful Resources & Links](#tutorial-63)
+64. [](#tutorial-64)
+65. [](#tutorial-65)
+66. [](#tutorial-66)
+67. [](#tutorial-67)
+68. [](#tutorial-68)
+69. [](#tutorial-69)
+70. [](#tutorial-70)
+71. [](#tutorial-71)
+72. [](#tutorial-72)
+73. [](#tutorial-73)
+74. [](#tutorial-74)
+75. [](#tutorial-75)
+76. [](#tutorial-76)
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -239,3 +254,21 @@ varName = (
 * Always use key for better identification. Key needs to be different for all elements.
 ###### Tutorial 60
 * use find() function to find any element in an array and use findIndex() to find index of any element in an array.
+###### Tutorial 61
+###### Tutorial 62
+###### Tutorial 63
+* Conditional Rendering: [https://reactjs.org/docs/conditional-rendering.html](https://reactjs.org/docs/conditional-rendering.html)
+* Lists & Keys: [https://reactjs.org/docs/lists-and-keys.html](https://reactjs.org/docs/lists-and-keys.html)
+###### Tutorial 64
+###### Tutorial 65
+###### Tutorial 66
+###### Tutorial 67
+###### Tutorial 68
+###### Tutorial 69
+###### Tutorial 70
+###### Tutorial 71
+###### Tutorial 72
+###### Tutorial 73
+###### Tutorial 74
+###### Tutorial 75
+###### Tutorial 76
