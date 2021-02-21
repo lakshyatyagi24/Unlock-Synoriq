@@ -58,6 +58,12 @@ Playlist Link:[https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 53. [ Rendering Content Conditionally](#tutorial-53)
 54. [Handling Dynamic Content "The JavaScript Way"](#tutorial-54)
 55. [Outputting Lists (Intro)](#tutorial-55)
+56. [Outputting Lists](#tutorial-56)
+57. [Lists & State](#tutorial-57)
+58. [Updating State Immutably](#tutorial-58)
+59. [Lists & Keys](#tutorial-59)
+60. [Flexible Lists](#tutorial-60)
+
 
 ###### Tutorial 1
 * React is a JS Library.
@@ -212,3 +218,24 @@ const funcName = (argumentList) => {
 ###### Tutorial 54
 * To handle dynamic content in js way we need to declare a variable and add content in it and calls that variable.
 ###### Tutorial 55
+###### Tutorial 56
+* We use map function to map all the function in an array.
+* syntax to print list output in different way
+```js
+varName = (
+    <div>
+        {this.state.varName.map(newVar => {
+            return <funcName property = {newVar.property} ... />
+        })}
+    </div>
+);
+```
+###### Tutorial 57
+* If we need two arguments then we need to use paranthesis
+* use Splice() function to remove that element from an array
+###### Tutorial 58
+* use slice() function to copy complete array or we can use '...' before calling to copy array.
+###### Tutorial 59
+* Always use key for better identification. Key needs to be different for all elements.
+###### Tutorial 60
+* use find() function to find any element in an array and use findIndex() to find index of any element in an array.
